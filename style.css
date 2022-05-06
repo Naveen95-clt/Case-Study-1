@@ -1,0 +1,16 @@
+
+.box{
+    border: 1px gray solid;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    position: absolute;
+    left: 40%;
+    top: 150px;
+}
+.box input{
+    margin-top: 35px;
+}
+#btn{
+    margin-top: 15px;
+}
