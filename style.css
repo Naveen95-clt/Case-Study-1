@@ -14,3 +14,18 @@
 #btn{
     margin-top: 15px;
 }
+
+.form{
+    margin-left: 25px;
+    margin-top: 25px;
+    border: 1px grey solid;
+    text-align: center;
+    padding: 15px;
+    height: 190px;
+    width: 800px;
+    position: absolute;
+    left: 300px;
+}
+input{
+    border-radius: 3px;
+}
