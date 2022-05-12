@@ -5,7 +5,7 @@ function populate(){
     {
         if(xhr.readyState==4&&xhr.status==200){
             var resultData=JSON.parse(xhr.responseText);
-            console.log('1')
+            
             fill(resultData);
         }
     }
