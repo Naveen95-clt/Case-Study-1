@@ -18,7 +18,7 @@ button.addEventListener('click',() => {
 })
  
 let validateform = (name,password,callback) => {
-    if(name == "username" && password == 12345){
+    if(name == "admin" && password == 12345){
         window.open("index2.html","_self")
     }
     else{
